@@ -19,7 +19,7 @@ The project demonstrates the use of:
 - Data types
 - Arithmetic operations
 - Conditional statements
-- Functions and basic Python programming concepts
+- Basic Python programming concepts
 
 ---
 
